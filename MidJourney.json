@@ -6,10 +6,10 @@
         "InterAd": "max",
         "NativeAd": "max",
         
-        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native": "ca-app-pub-3940256099942544/1044960115",
-        "admob_open": "ca-app-pub-3940256099942544/3419835294",
+        "admob_banner": "ca-app-pub-8276813490498362/1203620396",
+        "admob_inter":    "ca-app-pub-8276813490498362/6352005298",
+        "admob_native":  "ca-app-pub-8276813490498362/3725841955",
+        "admob_open":    "ca-app-pub-8276813490498362/9401636625",
 
         "facebook_banner": "IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
         "facebook_inter": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
