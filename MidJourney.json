@@ -2,9 +2,9 @@
     "Ads": {
         "show_ads": true,
         
-        "bannerAd": "max",
-        "InterAd": "max",
-        "NativeAd": "max",
+        "bannerAd": "admob",
+        "InterAd": "admob",
+        "NativeAd": "admob",
         
         "admob_banner": "ca-app-pub-8276813490498362/1203620396",
         "admob_inter":    "ca-app-pub-8276813490498362/6352005298",
@@ -26,8 +26,8 @@
         "unityBanner": "banner",
         "unityInter": "Android_Interstitial",
         
-        "intersitial_click_activites": 3,
-		"intersitial_click_list": 3
+        "intersitial_click_activites": 5,
+		"intersitial_click_list": 5
 
     }
 }
